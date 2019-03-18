@@ -22,7 +22,7 @@ Example of exported functions:
  - Principal Variation Search.
  
  ## GUI
- I implemented a simple GUI in Windows Forms. You can donwnload it from [Contribution guidelines for this project](bin/)
+ I implemented a simple GUI in Windows Forms. You can donwnload it from [ChessGUI ](bin/)
  
  ## My recommendations (4 years latter :-) )
 - The structure of the project should be improved (Although the project has ~ 450 lines of code) 
