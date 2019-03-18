@@ -16,7 +16,7 @@ Example of exported functions:
 4. Search until stability is reached. When abrupt changes in the evaluation happens from the previous level (Ex: a piece is captured, another version of this code include when the king was under attack)
 5. Positions Tables
 
-## I experimented with in other versions with:
+## I experimented in other versions with:
  - Null-Movement
  - Killer-Move (a variant)
  - Principal Variation Search.
