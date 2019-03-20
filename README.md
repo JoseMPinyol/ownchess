@@ -22,9 +22,10 @@ Example of exported functions:
  - Principal Variation Search.
  
  ## GUI
- I implemented a simple GUI in Windows Forms. You can donwnload it from [ChessGUI ](bin/)
- For normal-fast game you should set "Nodos a Analizar" to about 7000.
- <img src="images/GUIchess.png" height="456px" width="410px"/>
+ I implemented a simple GUI in Windows Forms. You can donwnload it from [ChessGUI ](bin/). For normal-fast game you should set "Nodos a Analizar" to about 7000. <br />
+ <p align="center">
+  <img src="images/GUIchess.png" height="456px" width="410px"/>
+ </p>
 
  
  ## My recommendations (4 years latter :-) )
